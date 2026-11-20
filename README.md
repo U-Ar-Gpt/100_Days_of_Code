@@ -1,6 +1,8 @@
-100 Days of Code – C Programming 💻
+# 💻 100 Days of Code – C Programming
 
-About
+---
+
+## 📌 About
 
 This repository contains my solutions to the 100 Days of Code – Basic Coding with C activity conducted as part of the academic curriculum at UPES.
 
@@ -8,28 +10,42 @@ The purpose of this activity was to practise C programming regularly, improve pr
 
 I completed all 100 days and solved a total of 150 programming questions.
 
-Challenge Details
+---
 
-Details| Information
-Activity| 100 Days of Code
-Institution| UPES
-Course| B.Tech CSE
-Semester| 1st Semester
-Programming Language| C
-Total Duration| 100 Days
-Total Questions| 150
-Status| In Progress
+## 📋 Challenge Details
 
-Challenge Structure
+| Details | Information |
+|:---|:---|
+| Activity | 100 Days of Code |
+| Institution | UPES |
+| Course | B.Tech CSE |
+| Semester | 1st Semester |
+| Programming Language | C |
+| Total Duration | 100 Days |
+| Total Questions | 150 |
+| Status | In Progresss |
+
+---
+
+## 📅 Challenge Structure
 
 The challenge was divided into two parts:
 
-- Day 1–50: 2 questions every day (100 questions).
-- Day 51–100: 1 question every day (50 questions).
+### Phase 1: Day 1–50
 
-Total: 100 Days and 150 Questions.
+- 2 questions every day.
+- Total: 100 questions.
 
-What I Learned
+### Phase 2: Day 51–100
+
+- 1 question every day.
+- Total: 50 questions.
+
+Overall: 100 Days | 150 Questions
+
+---
+
+## 📚 What I Learned
 
 During this activity, I practised different programming concepts, including:
 
@@ -42,12 +58,16 @@ During this activity, I practised different programming concepts, including:
 - Strings
 - Basic Problem Solving
 
-Challenge Website
+---
+
+## 🔗 Challenge Website
 
 "100 Days of Code – Basic Coding with C" (https://maitysoumik.github.io/basic-coding-with-c/)
 
 ---
 
-Completed as part of the UPES academic activity.
-
-Learning step by step, one program at a time. 🚀
+<p align="center">
+  <b>Completed as part of the UPES academic activity.</b>
+  <br><br>
+  <i>Learning step by step, one program at a time. 🚀</i>
+</p>
