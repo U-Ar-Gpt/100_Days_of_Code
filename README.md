@@ -8,7 +8,7 @@ This repository contains my solutions to the 100 Days of Code – Basic Coding w
 
 The purpose of this activity was to practise C programming regularly, improve problem-solving skills, and understand basic programming concepts through coding.
 
-I completed all 100 days and solved a total of 150 programming questions.
+I completed all 96 days and solved a total of 146 programming questions.
 
 ---
 
